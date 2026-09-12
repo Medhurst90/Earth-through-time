@@ -14,3 +14,31 @@ London terrace and Egyptian temple: generated with Meshy v7 through Fal for this
 Sky: generated using OpenAI ImageGen, text-to-image, copied into project assets/world/sky.jpg and converted to JPEG. Prompt: “Asset type: environment texture for an educational interactive 3D world. Generate a high-quality photographic 360-degree equirectangular sky panorama, 2:1 aspect ratio, 2048 by 1024 if possible. Only sky: natural blue daytime sky with realistic softly lit scattered cumulus and thin cirrus clouds, warm-neutral late morning light, gentle atmospheric haze at the horizon. Absolutely no land, buildings, objects, trees, text or water. Horizon around vertical middle, entire bottom hemisphere pale uniform atmospheric blue. Upper sky deeper blue with delicately structured clouds. Seamless left and right edges, suitable as a realistic panoramic background seen while walking in a browser 3D world. No dramatic sunset, no fantasy, no stars. Scientific educational setting, calm welcoming daylight.”
 
 25 new narrated discoveries use the project's existing en-US-AnaNeural voice, recorded and compressed for offline playback. Narration falls back to speech synthesis if a recording cannot play.
+
+
+## Apollo and Mars expeditions
+
+Spacecraft geometry: NASA 3D Resources, https://github.com/nasa/NASA-3D-Resources . Models: Apollo Lunar Module; Mars 2020 Perseverance Rover; Mars Exploration Rover – Opportunity (MER-B); Ingenuity Mars Helicopter; InSight Cruise Lander (panels deployed). Source GLBs were decoded offline, node transforms baked, grouped by material, quantized for WebGL 1, resized and recompressed. NASA content is used for education under https://www.nasa.gov/nasa-brand-center/images-and-media/ . NASA does not endorse this project. Source model detail varies.
+
+The Moon landscape, suits and experiment props are illustrative reconstructions. Mission times are UTC, rounded to the minute. The Mars robots form a comparison exhibit spanning different dates and landing sites, not a historical gathering. Mission names refer to historical milestones, not a live mission-status display.
+
+Mission references:
+- Apollo 11 event times: https://www.nasa.gov/wp-content/uploads/static/history/ap11ann/ap11events.html
+- Apollo overview: https://www.nasa.gov/history/apollo-11-mission-overview/
+- Mars history: https://science.nasa.gov/planetary-science/programs/mars-exploration/mission-timeline/
+- Perseverance: https://science.nasa.gov/mission/mars-2020-perseverance/
+- Opportunity: https://science.nasa.gov/mission/mer-opportunity/
+- InSight: https://science.nasa.gov/mission/insight/
+- Ingenuity: https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/
+
+## Additional wildlife and city detail
+
+Stegosaurus, Triceratops and Anomalocaris: generated using Meshy v7 through Fal, then optimized with compressed surface maps. These are educational artistic reconstructions; colours are uncertain. The Stegosaurus stop explicitly dates its Late Jurassic exhibit to about 150 million years ago, later than the globe's Jurassic marker. Triceratops is shown only before the impact stage in the 66-million-year chapter. Anomalocaris appears only in the broad Cambrian chapter.
+
+Scientific references:
+- https://www.nhm.ac.uk/discover/stegosaurus-brought-to-life.html
+- https://www.nhm.ac.uk/discover/dino-directory/triceratops.html
+- https://www.nhm.ac.uk/discover/the-cambrian-period.html
+- https://www.nhm.ac.uk/discover/news/2023/july/cambrian-apex-predator-probably-preferred-soft-bodied-prey.html
+
+Foxes, ducks, pigeons, townspeople, market produce, carts, planters and street furniture are locally authored geometry. A requested generated deer was blocked by the provider's exhausted-balance response and is not included. Sixteen additional narrated discoveries use en-US-AnaNeural, with recorded files and speech fallback.
