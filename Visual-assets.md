@@ -58,3 +58,8 @@ References:
 ## Blender Egyptian district
 
 The Egyptian riverside district uses original procedural Blender geometry and textures (approved revision 6): temple pylons, colonnade, mudbrick homes, market, palms, boat and three pyramids. It is a compressed teaching reconstruction, not an archaeological site survey. The pyramids predate the New Kingdom setting, as the narrated discovery explains. No paid generation service or API credentials are needed by the visitor.
+
+## Rocket launch lab
+
+Original procedural two-stage rocket, launch tower, exhaust and smoke, rendered with the existing WebGL viewer. The 32-second animation is an illustrative sequence, not a flight simulation: time, distance, vehicle proportions and staging are compressed. Countdown, ascent, pitch-over, stage separation, fairing opening and satellite deployment introduce rocket thrust and orbit. Read-aloud uses the device's available English speech voice. Engine ambience is synthesized locally and follows mute, pause and visibility controls.
+Science reference: https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/flight-to-orbit/ and https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/liquid-rocket-engine/
