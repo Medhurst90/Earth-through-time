@@ -42,3 +42,15 @@ Scientific references:
 - https://www.nhm.ac.uk/discover/news/2023/july/cambrian-apex-predator-probably-preferred-soft-bodied-prey.html
 
 Foxes, ducks, pigeons, townspeople, market produce, carts, planters and street furniture are locally authored geometry. A requested generated deer was blocked by the provider's exhausted-balance response and is not included. Sixteen additional narrated discoveries use en-US-AnaNeural, with recorded files and speech fallback.
+
+
+## Satellites and space stations
+
+The orbital laboratory uses original procedural satellite and station geometry, inspired by the functional parts of spacecraft. The station is an illustrative ISS-inspired model, not an exact or current engineering configuration. Earth reuses the credited Solar System Scope map. Sizes, orbit spacing and animation rates are schematic; positions are not live. The calculator uses a spherical-Earth circular-orbit approximation, radius 6,371 km and gravitational parameter 398,600 km³/s². Six original explanations are recorded using the existing en-US-AnaNeural voice.
+
+References:
+- NASA Space Place: https://spaceplace.nasa.gov/satellite/en/
+- NASA station guide: https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-international-space-station-grades-5-8/
+- NASA microgravity: https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-microgravity-grades-k-4/
+- NASA orbit catalogue: https://science.nasa.gov/earth/earth-observatory/catalog-of-earth-satellite-orbits/
+- GPS.gov: https://www.gps.gov/systems/gps/space/
