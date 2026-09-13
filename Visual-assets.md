@@ -54,3 +54,7 @@ References:
 - NASA microgravity: https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-microgravity-grades-k-4/
 - NASA orbit catalogue: https://science.nasa.gov/earth/earth-observatory/catalog-of-earth-satellite-orbits/
 - GPS.gov: https://www.gps.gov/systems/gps/space/
+
+## Blender Egyptian district
+
+The Egyptian riverside district uses original procedural Blender geometry and textures (approved revision 6): temple pylons, colonnade, mudbrick homes, market, palms, boat and three pyramids. It is a compressed teaching reconstruction, not an archaeological site survey. The pyramids predate the New Kingdom setting, as the narrated discovery explains. No paid generation service or API credentials are needed by the visitor.
